@@ -7,7 +7,7 @@ body {
     background-color: antiquewhite;
 }
 
-#ingredients {
+.ingredients-list {
     background-image: linear-gradient(
         90deg,
         rgba(255, 0, 55, 0.192),
@@ -15,7 +15,7 @@ body {
         );
 }
 
-#instructions {
+.instructions-list {
     background-image: linear-gradient(
         90deg,
         rgb(119 0 255 / 39%),
@@ -23,7 +23,7 @@ body {
         );
 }
 
-#dish-image {
+.dish-image {
     height: auto;
     width: 320px;
     margin: 5px auto;
